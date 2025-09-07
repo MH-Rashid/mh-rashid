@@ -1,11 +1,11 @@
 ## Hi there 👋 I'm Muhammed
 
-### A passionate web developer from the United Kingdom
+### A passionate fullstack web developer from the UK
 
-Frontend developer with a focus on designing seamless, polished user interfaces as part of my work in the fintech space. Key skills include React, NextJS, TypeScript, Tailwind CSS, Material UI, Redux and Git.
+Fullstack developer with a focus on designing seamless, polished user interfaces as part of my work in the fintech space. Key skills include React, NextJS, TypeScript, Tailwind CSS, Material UI, Redux and Git.
 
-<li> 🔭 I'm currently working on becoming a fullstack, t-shaped developer - specialising on the frontend but able to deliver end-to-end 
-<li> 🌱 Learning how to solve leetcode style problems to improve CS knowledge
+<li> 🔭 I'm currently working on developing my skills across the stack to raise my competitive edge in the market 
+<li> 🌱 Practising progressively harder leetcode-style problems to improve CS knowledge and logical thinking
 <li> 👯 Looking to land my next role as a developer and work on impactful projects
 
 #### Check out my dev portfolio <a href="https://www.muhammedrashid.dev">here</a>
